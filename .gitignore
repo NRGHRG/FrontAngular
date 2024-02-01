@@ -1,5 +1,4 @@
 
-*.json
 .angular/cache/15.2.10/angular-webpack/e5992918d420339ec4160830fc07a29cf466a53f/index.pack
 *.pack
 .angular/cache/15.2.10/angular-webpack/e5992918d420339ec4160830fc07a29cf466a53f/index.pack.old
